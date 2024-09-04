@@ -1,2 +1,2 @@
 # Capsuloiza
-Capsuloiza
+WSZYSTKIE PLIKI ZNAJDUJĄ SIĘ NA BRANCHU "MASTER"
